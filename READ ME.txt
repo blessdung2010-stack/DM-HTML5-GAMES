@@ -1,0 +1,293 @@
+# ?? DM HTML5 Game
+
+Welcome to **DM HTML5 Game** — a fun browser-based gaming project built with **HTML5, CSS3, and JavaScript**.
+
+The goal of this project is to create a simple place where users can open the website, choose a game, and start playing directly in their browser without needing to install a large application.
+
+---
+
+## ?? About DM HTML5 Game
+
+**DM HTML5 Game** is designed to provide:
+
+* ?? Browser-based HTML5 games
+* ?? Fast and lightweight gameplay
+* ?? Support for phones, tablets, and computers
+* ?? User name support
+* ?? 5-second game countdown
+* ? Animated game loading
+* ? Ability to load more games
+* ?? Modern gaming interface
+* ?? No complicated installation
+* ?? Built using HTML, CSS, and JavaScript
+
+The project can start with 50 games and continue expanding with more games over time.
+
+---
+
+# ?? DM Projects
+
+DM HTML5 Game is part of a larger collection of creative projects.
+
+## ?? Inter Trick
+
+**Inter Trick** is one of the projects connected with the DM project family.
+
+It can be used as a place for experiments, ideas, technology projects, websites, and other digital creations.
+
+More information and links can be added here as the project grows.
+
+**Inter Trick:**
+`[Add your Inter Trick link here]`
+
+---
+
+## ?? Luna Notepad
+
+**Luna Notepad** is another project in the DM project family.
+
+The idea behind Luna Notepad is to provide a simple and useful notepad experience for writing, saving, organizing, and managing notes.
+
+Possible features include:
+
+* ?? Create notes
+* ?? Save notes
+* ?? Edit notes
+* ??? Delete notes
+* ?? Search notes
+* ?? Dark mode
+* ?? Custom themes
+* ?? Mobile-friendly design
+
+**Luna Notepad:**
+`[Add your Luna Notepad link here]`
+
+---
+
+# ?? Luna
+
+**Luna** is the name used for the technology and creative side of some DM projects.
+
+Luna can represent tools, experiments, applications, websites, and future projects created as part of the DM ecosystem.
+
+Future Luna projects may include:
+
+* AI tools
+* Notepad applications
+* Games
+* Web applications
+* Developer tools
+* Educational projects
+* Creative experiments
+
+---
+
+# ?? Games
+
+DM HTML5 Game is intended to contain many different games.
+
+Some planned or available game ideas include:
+
+* ?? Snake
+* ?? Ping Pong
+* ?? Breakout
+* ?? Flappy Bird
+* ?? Space Shooter
+* ??? Car Racer
+* ?? Memory Game
+* ?? Runner
+* ?? Target Shooter
+* ?? Puzzle Games
+* ?? Basketball
+* ? Football
+* ? Mini Golf
+* ?? 2048
+* ?? Maze
+* ?? Gem Hunter
+* ?? Alien Attack
+* ?? Zombie Run
+* ?? DM Challenge
+
+More games can be added in future updates.
+
+---
+
+# ?? Project Links
+
+Add the official links for your projects below.
+
+### ?? DM HTML5 Game
+
+`[Add link here]`
+
+### ?? Inter Trick
+
+`[Add link here]`
+
+### ?? Luna Notepad
+
+`[Add link here]`
+
+### ?? Luna
+
+`[Add link here]`
+
+### ?? DM Main Project
+
+`[Add link here]`
+
+---
+
+# ?? Project Branches
+
+If the project is hosted on a platform such as GitHub, different branches can be used for development.
+
+Example:
+
+```text
+main
+¦
++-- game-development
++-- luna
++-- notepad
++-- inter-trick
++-- experimental
++-- website
+```
+
+### `main`
+
+The stable version of the project.
+
+### `game-development`
+
+Used for developing new games and improving existing games.
+
+### `luna`
+
+Used for Luna-related projects and experiments.
+
+### `notepad`
+
+Used for Luna Notepad development.
+
+### `inter-trick`
+
+Used for Inter Trick development.
+
+### `experimental`
+
+Used for testing new ideas before they are added to the main project.
+
+### `website`
+
+Used for the main DM website and related web pages.
+
+---
+
+# ?? Technologies
+
+DM HTML5 Game uses web technologies including:
+
+* **HTML5** — Website structure
+* **CSS3** — Design and animations
+* **JavaScript** — Game logic and interactions
+* **Canvas API** — Browser game graphics
+* **Local Storage** — Saving certain user information locally
+
+The project is designed to run directly in modern web browsers.
+
+---
+
+# ?? Basic Project Structure
+
+A simple version of the project can look like this:
+
+```text
+DM-Projects/
+¦
++-- dm.html
+¦
++-- games/
+¦   +-- snake.html
+¦   +-- ping-pong.html
+¦   +-- breakout.html
+¦   +-- ...
+¦
++-- luna-notepad/
+¦   +-- index.html
+¦
++-- inter-trick/
+¦   +-- index.html
+¦
++-- README.md
+```
+
+The main DM HTML5 Game can also be kept as a single HTML file containing its HTML, CSS, and JavaScript.
+
+---
+
+# ?? Future Plans
+
+The project can continue growing with features such as:
+
+* ?? 100+ games
+* ?? High scores
+* ?? Leaderboards
+* ?? Better player profiles
+* ?? Online multiplayer
+* ?? Game saves
+* ?? Sound effects
+* ?? Background music
+* ?? Dark/light themes
+* ?? Game search
+* ??? Game categories
+* ? Favorite games
+* ?? Better mobile controls
+* ?? More animations
+* ?? New Luna applications
+* ??? More Inter Trick projects
+
+---
+
+# ?? Credits
+
+Created as part of the **DM project family**.
+
+### Main Project
+
+**DM HTML5 Game**
+
+### Related Projects
+
+**Inter Trick**
+**Luna Notepad**
+**Luna**
+
+More projects may be added in the future.
+
+---
+
+# ?? License
+
+This project can be given a license by the project owner.
+
+For now:
+
+> © DM Project — All rights reserved unless otherwise stated.
+
+Do not redistribute or claim the project as your own without permission from the project owner.
+
+---
+
+# ? Thank You
+
+Thank you for checking out **DM HTML5 Game**.
+
+This project is only the beginning.
+
+**Play. Create. Experiment. Build.**
+
+## ?? DM HTML5 Game
+
+### Powered by creativity, HTML5, CSS3 & JavaScript.
